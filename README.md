@@ -23,7 +23,6 @@ Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e 
 - **Git**: Controle de versão e colaboração em projetos de software.
 
 
-![image](https://github.com/user-attachments/assets/b868feea-37a2-4337-b6d4-5b1513c8b1bb)     ![image](https://github.com/user-attachments/assets/03acb2de-4246-4b78-9385-b92f5abd4717)
 
 
 
