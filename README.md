@@ -30,3 +30,4 @@ Meu objetivo é me tornar um profissional qualificado em desenvolvimento back-en
 ---
 
 Sinta-se à vontade para me contatar para discussões sobre tecnologia, desenvolvimento de software e aprendizado contínuo!
+ 
