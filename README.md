@@ -11,6 +11,7 @@ Atualmente, sou estudante nas áreas de desenvolvimento e tecnologia, com foco e
 - **Python Web (Back-end)**: Estudando desenvolvimento de aplicações robustas utilizando o framework Django.
 - **Cloud Computing**: Focado em serviços da **AWS** para implementar soluções escaláveis e eficientes em nuvem.
 - **Inglês**: Estudando gramática e fluência para melhorar minha comunicação técnica e profissional.
+- **IA**:Estudando as melhores praticas com INTELIGENCIA ARTIFICIAL com foco no CHAT-GPT
 
 ## 💻 Tecnologias e Ferramentas
 Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
@@ -21,13 +22,5 @@ Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e 
 - **AWS**: Estudando serviços como EC2, S3 e Lambda para implementação de soluções em nuvem.
 - **Git**: Controle de versão e colaboração em projetos de software.
 
-## 📚 Formação
-Estou cursando diversos cursos na **Alura**, onde adquiro conhecimentos práticos e teóricos que são essenciais para a minha carreira na tecnologia.
 
-## 🌱 Objetivos
-Meu objetivo é me tornar um profissional qualificado em desenvolvimento back-end e administração de sistemas em nuvem, contribuindo para projetos inovadores e de impacto na indústria.
-
----
-
-Sinta-se à vontade para me contatar para discussões sobre tecnologia, desenvolvimento de software e aprendizado contínuo!
- 
+![image](https://github.com/user-attachments/assets/32861821-59ee-40c6-b265-1ab10b547b0e)
