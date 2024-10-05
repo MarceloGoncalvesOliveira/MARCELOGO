@@ -22,6 +22,10 @@ Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e 
 - **AWS**: Estudando serviços como EC2, S3 e Lambda para implementação de soluções em nuvem.
 - **Git**: Controle de versão e colaboração em projetos de software.
 
+![image](https://github.com/user-attachments/assets/1906d962-2b99-45e4-b4dd-d2c21feeb97a)  ![image](https://github.com/user-attachments/assets/8cf3df1c-e357-4fd5-b484-537ca85f498a)
+
+
+
 
 
 
