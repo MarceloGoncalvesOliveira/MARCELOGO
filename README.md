@@ -25,7 +25,7 @@ Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e 
 - **AWS**: Estudando serviços como EC2, S3 e Lambda para implementação de soluções em nuvem.
 - **Git**: Controle de versão e colaboração em projetos de software.
 
-www.linkedin.com/in/marcelo-goncalves-oliveira-11b7a2305                        
+www.linkedin.com/in/marcelo-goncalves-oliveira-11b7a2305       https://www.instagram.com/_marcelogo/                           
 
 
 
