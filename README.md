@@ -1,4 +1,4 @@
-# MARCELOGO
+# MARCELOGONCALVESOLIVEIRA
 
 # Olá, sou um estudante em tecnologia!
 
@@ -11,7 +11,10 @@ Atualmente, sou estudante nas áreas de desenvolvimento e tecnologia, com foco e
 - **Python Web (Back-end)**: Estudando desenvolvimento de aplicações robustas utilizando o framework Django.
 - **Cloud Computing**: Focado em serviços da **AWS** para implementar soluções escaláveis e eficientes em nuvem.
 - **Inglês**: Estudando gramática e fluência para melhorar minha comunicação técnica e profissional.
-- **IA**:Estudando as melhores praticas com INTELIGENCIA ARTIFICIAL com foco no CHAT-GPT
+- **IA**: Estudando as melhores práticas com Inteligência Artificial, com foco no ChatGPT.
+
+### 🎓 Futuro Acadêmico
+Em 2025, estou planejando iniciar uma graduação na área de tecnologia para consolidar e expandir meus conhecimentos técnicos e profissionais.
 
 ## 💻 Tecnologias e Ferramentas
 Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
@@ -22,8 +25,7 @@ Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e 
 - **AWS**: Estudando serviços como EC2, S3 e Lambda para implementação de soluções em nuvem.
 - **Git**: Controle de versão e colaboração em projetos de software.
 
-![image](https://github.com/user-attachments/assets/1906d962-2b99-45e4-b4dd-d2c21feeb97a)  ![image](https://github.com/user-attachments/assets/8cf3df1c-e357-4fd5-b484-537ca85f498a)
-
+www.linkedin.com/in/marcelo-goncalves-oliveira-11b7a2305                        
 
 
 
