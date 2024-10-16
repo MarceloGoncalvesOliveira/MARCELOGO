@@ -1,4 +1,5 @@
-# MARCELOGONCALVESOLIVEIRA
+# 👋 Hello! Welcome to my Github profile.
+## My name is Marcelo Goncalves Oliveira and my nickname is "MarceloGO"!
 
 # Olá, sou um estudante em tecnologia!
 
@@ -24,6 +25,13 @@ Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e 
 - **Linux**: Administração de sistemas, incluindo comandos de terminal e gerenciamento de pacotes.
 - **AWS**: Estudando serviços como EC2, S3 e Lambda para implementação de soluções em nuvem.
 - **Git**: Controle de versão e colaboração em projetos de software.
+
+<i class="devicon-python-plain"></i>    <i class="devicon-linux-plain"></i>   <i class="devicon-amazonwebservices-plain-wordmark"></i>    <i class="devicon-django-plain"></i>  <i class="devicon-github-original"></i>
+
+
+
+
+
 
 www.linkedin.com/in/marcelo-goncalves-oliveira-11b7a2305       https://www.instagram.com/_marcelogo/                           
 
