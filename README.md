@@ -19,7 +19,7 @@ Em 2025, estou planejando iniciar uma graduação na área de tecnologia para co
 
 ## 💻 Tecnologias e Ferramentas
 Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 
