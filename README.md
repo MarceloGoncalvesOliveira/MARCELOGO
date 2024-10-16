@@ -19,16 +19,7 @@ Em 2025, estou planejando iniciar uma graduação na área de tecnologia para co
 
 ## 💻 Tecnologias e Ferramentas
 Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
-
-- **Python**: Desenvolvimento de aplicações web e automações com foco em **APIs**.
-- **Django**: Framework para construção de aplicações web escaláveis.
-- **Linux**: Administração de sistemas, incluindo comandos de terminal e gerenciamento de pacotes.
-- **AWS**: Estudando serviços como EC2, S3 e Lambda para implementação de soluções em nuvem.
-- **Git**: Controle de versão e colaboração em projetos de software.
-
-
-
-<i class="devicon-python-plain"></i>    <i class="devicon-linux-plain"></i>   <i class="devicon-amazonwebservices-plain-wordmark"></i>    <i class="devicon-django-plain"></i>  <i class="devicon-github-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 
 
