@@ -32,6 +32,13 @@ Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes t
     </a>   
 </div>
 
+<div>
+<a href="https://github.com/MarceloGoncalvesOliveira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGoncalvesOliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGoncalvesOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/MarceloGoncalvesOliveira/MarceloGoncalvesOliveira/blob/output/github-contribution-grid-snake.svg)
 
 
 
