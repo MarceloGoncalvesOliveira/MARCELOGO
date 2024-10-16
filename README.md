@@ -18,9 +18,10 @@ Atualmente, sou estudante nas áreas de desenvolvimento e tecnologia, com foco e
 Em 2025, estou planejando iniciar uma graduação na área de tecnologia para consolidar e expandir meus conhecimentos técnicos e profissionais.
 
 ## 💻 Tecnologias e Ferramentas
-Atualmente, estou aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
+Atualmente, estou aprendendo e aprimorando minhas habilidades com as seguintes tecnologias e ferramentas:
 
 -<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 
